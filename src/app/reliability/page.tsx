@@ -13,7 +13,7 @@ export default function Page() {
     <Hero
       imgurl="/3.jpeg"
       altTxt="Reliability background"
-      content="Reliability"
+      content="Reliability2"
     />
   )
 }
