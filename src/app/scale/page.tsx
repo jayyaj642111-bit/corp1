@@ -15,7 +15,7 @@ export default function Page() {
     <Hero
       imgurl="/4.jpeg"
       altTxt="Scale background"
-      content="Scale"
+      content="Scale2"
     />
   )
 }
